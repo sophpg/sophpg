@@ -18,14 +18,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sophia-pellizon-gouveia-46089a2b5)]( www.linkedin.com/in/sophia-pellizon-gouveia-46089a2b5)
 
 ## Languages 
-![sophpg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophpg&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophpg&layout=donut)](https://github.com/sophpg/github-readme-stats)
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!! 
 <!--
 **sophpg/sophpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
