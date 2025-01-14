@@ -19,6 +19,7 @@
 
 ## Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophpg&layout=donut)](https://github.com/sophpg/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
 
