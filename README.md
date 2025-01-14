@@ -18,9 +18,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sophia-pellizon-gouveia-46089a2b5)]( www.linkedin.com/in/sophia-pellizon-gouveia-46089a2b5)
 
 ## Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophpg&layout=compact)
+![sophpg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophpg&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
 
 - Thanks for visiting.
