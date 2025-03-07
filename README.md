@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Python and Data Studies.
+:books: I’m currently learning Java and Data Structures.
 
 :outbox_tray: 2025 Goals: keep up with my Python studies and get an Internship!
 
