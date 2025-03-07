@@ -12,7 +12,7 @@
 
 :books: I’m currently learning Java and Data Structures.
 
-:outbox_tray: 2025 Goals: keep up with my Python studies and get an Internship!
+:outbox_tray: 2025 Goals: keep up with my Java studies and get an Internship!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sophpg)](https://github.com/sophpg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sophia-pellizon-gouveia-46089a2b5)]( www.linkedin.com/in/sophia-pellizon-gouveia-46089a2b5)
